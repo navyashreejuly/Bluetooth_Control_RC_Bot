@@ -17,11 +17,16 @@ This project introduces a Bluetooth-controlled RC bot, a remote-controlled robot
 
 In the realm of robotics and remote control technology, the Bluetooth-controlled RC bot showcases human ingenuity and technological innovation. This project addresses the challenge of creating a versatile and user-friendly solution for remotely controlling a robot, resulting in a remarkable prototype that bridges the gap between human desires and machine capabilities.
 
-*Bluetooth RC car app is installed on a Smartphone, facilitating the control of the robot car, motors, and motor drivers. The app includes common keys to move the robot in different directions.*
+Bluetooth Rc car app is installed in Smartphone which helps to control the robot car, motors and motor drivers which moves robot cars in several places Bluetooth Rc car app has different common keys to move the robot in different directions with the help of Smartphone.
+               
+In the ever-evolving realm of robotics and remote control technology, the creation of a Bluetooth-controlled RC bot stands as a testament to human ingenuity and technological innovation. This project addresses the final challenge in achieving a versatile and user-friendly solution for remotely controlling a robot, and the result is a remarkable prototype that bridges the gap between human desires and machine capabilities.
+
+*The app includes common keys to move the robot in different directions.*
 
 ## Components
 
-- Arduino Uno
+- Arduino Uno 
+![L298N Motor Driver and Arduino Uno](https://5.imimg.com/data5/NB/KR/OH/SELLER-19590896/arduino-uno-r3-atmega16u2-atmega328-dip-.jpg)
 - L298N Motor Driver
 - Bluetooth Module
 - BO Motor with Wheel
