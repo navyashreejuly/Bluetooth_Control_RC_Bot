@@ -26,10 +26,20 @@ In the ever-evolving realm of robotics and remote control technology, the creati
 ## Components
 
 - Arduino Uno 
-![L298N Motor Driver and Arduino Uno](https://5.imimg.com/data5/NB/KR/OH/SELLER-19590896/arduino-uno-r3-atmega16u2-atmega328-dip-.jpg)
+![Arduino Uno](https://5.imimg.com/data5/NB/KR/OH/SELLER-19590896/arduino-uno-r3-atmega16u2-atmega328-dip-.jpg)
+
 - L298N Motor Driver
-- Bluetooth Module
+![L298N Motor Driver](https://components101.com/sites/default/files/component_pin/L298N-Module-Pinout.jpg)
+
+- Bluetooth Module  
+![Bluetooth Module ](https://5.imimg.com/data5/SELLER/Default/2020/11/ZL/DO/GJ/15458098/hc05-bluetooth-module-500x500.jpg)
+
 - BO Motor with Wheel
+![BO Motor with Wheel ](https://www.robotbanao.com/cdn/shop/products/2-x-duel-shaft-bo-motor-with-wheel-black-and-yellow-2-sets-combo-32482981183724.jpg?v=1635000844)
+
+- Jumper Wire
+![Jumper Wire ](https://m.media-amazon.com/images/I/71DvlkHeCuL.jpg)
+
 
 ## Circuit Connections
 
