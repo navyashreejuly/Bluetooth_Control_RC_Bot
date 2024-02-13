@@ -26,7 +26,7 @@ In the ever-evolving realm of robotics and remote control technology, the creati
 ## Components
 
 - Arduino Uno - 1 Unit
-![Arduino Uno](https://www.google.com/url?sa=i&url=https%3A%2F%2Frobomart.com%2Farduino-uno-r3-with-usb&psig=AOvVaw39hs-wla2blzBxlHemeIGJ&ust=1707894587322000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjlhqbhp4QDFQAAAAAdAAAAABAY)
+![Arduino Uno](https://static.robomart.com/image/cache/catalog/RM000058/arduino-uno-board-arduino-boards-rm0058-by-robomart-a17656-320x320.jpg.webp)
 
 - L298N Motor Driver - 1Unit
 ![L298N Motor Driver](https://components101.com/sites/default/files/component_pin/L298N-Module-Pinout.jpg)
