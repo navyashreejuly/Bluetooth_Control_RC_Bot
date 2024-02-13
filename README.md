@@ -26,7 +26,7 @@ In the ever-evolving realm of robotics and remote control technology, the creati
 ## Components
 
 - Arduino Uno - 1 Unit
-![Arduino Uno](https://5.imimg.com/data5/NB/KR/OH/SELLER-19590896/arduino-uno-r3-atmega16u2-atmega328-dip-.jpg)
+![Arduino Uno](arduino-uno-r3.jpg)
 
 - L298N Motor Driver - 1Unit
 ![L298N Motor Driver](https://components101.com/sites/default/files/component_pin/L298N-Module-Pinout.jpg)
